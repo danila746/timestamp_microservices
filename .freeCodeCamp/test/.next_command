@@ -1096,3 +1096,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=students
 ls --color=auto -l
 ./insert_data.sh
+./insert_data.sh
