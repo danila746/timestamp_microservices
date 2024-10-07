@@ -36,7 +36,7 @@ do
     if [[ $INSERT_COURSE_RESULT == "INSERT 0 1" ]]
     then
       echo Inserted into courses, $COURSE
-      fi
+    fi
   
     # get new course_id
   fi
