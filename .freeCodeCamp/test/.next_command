@@ -1557,3 +1557,4 @@ psql --username=freecodecamp --dbname=students
 ./insert_data.sh
 ls --color=auto -lr
 cp students.csv students_test.csv
+nano students_test.csv
