@@ -52,7 +52,7 @@ do
   fi
 done
 
-cat students_test.csv | while IFS="," read FIRST LAST MAJOR GPA
+cat students_test.csv | while IFS="," read STUDENT FIRST LAST MAJOR GPA
 do
-  echo $FIRST
+  echo  $STUDENT
 done

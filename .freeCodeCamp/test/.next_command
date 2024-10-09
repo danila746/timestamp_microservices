@@ -1560,3 +1560,8 @@ cp students.csv students_test.csv
 nano students_test.csv
 help while
 ./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
