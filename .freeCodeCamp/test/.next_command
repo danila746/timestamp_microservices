@@ -1558,3 +1558,4 @@ psql --username=freecodecamp --dbname=students
 ls --color=auto -lr
 cp students.csv students_test.csv
 nano students_test.csv
+help while
